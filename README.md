@@ -12,6 +12,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="100" alt="Python" />
   <img width="12" />
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="100" alt="Python" />
+  <img width="12" />
   <img src="https://marlinbluetech.com/assets/img/sq.gif" height="100" alt="SQL" />
   <img width="12" />
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*1G2TzNcdf6rJc5HS.gif" height="100" alt="Power BI" />
