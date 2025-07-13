@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="100" alt="Python" />
   <img width="12" />
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="100" alt="Python" />
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="80" alt="Python" />
   <img width="12" />
   <img src="https://marlinbluetech.com/assets/img/sq.gif" height="80" alt="SQL" />
   <img width="12" />
