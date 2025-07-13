@@ -5,14 +5,12 @@
   Passionate about turning raw data into powerful insights using modern tools and techniques.
 </p>
 
-###
+---
 
 <!-- Skills Section -->
 <h3 align="center">💼 My Core Tools</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="100" alt="Python" />
-  <img width="12" />
-  <img src="https://camo.githubusercontent.com/1ba745ee752123325aaeb8650817192f95bd148416f29c9e759342c802fd7583/68747470733a2f2f6173736574732d76322e6c6f7474696566696c65732e636f6d2f612f36326530326263362d313136662d313165652d616562302d3037376333333562336336372f5870776655696b494c502e676966" height="100" alt="Python" />
   <img width="12" />
   <img src="https://marlinbluetech.com/assets/img/sq.gif" height="100" alt="SQL" />
   <img width="12" />
@@ -23,21 +21,32 @@
   <img src="https://jimalytics.com/wp-content/uploads/2022/07/AEP-Schema-Basics.gif" height="100" alt="Adobe CJA" />
 </div>
 
-###
+---
 
 <!-- Social Links -->
+<h3 align="center">🔗 Connect with Me</h3>
 <div align="center">
-  <a href="www.linkedin.com/in/ranjit-kumar-singh-1a69701a6" target="_blank">
+  <a href="https://www.linkedin.com/in/ranjit-kumar-singh-1a69701a6/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
 </div>
 
-###
+---
 
 <!-- GitHub Streak Stats -->
+<h3 align="center">🔥 GitHub Streak</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-github-username&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Ranjit933&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
 </div>
 
-###
+---
 
+<!-- Contribution Graph -->
+<h3 align="center">🎮 Contribution Graph</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ranjit933/Ranjit933/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ranjit933/Ranjit933/output/pacman-contribution-graph.svg">
+    <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/Ranjit933/Ranjit933/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
