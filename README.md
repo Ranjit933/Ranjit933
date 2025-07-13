@@ -38,15 +38,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ranjit933&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
 </div>
-
----
-
-<!-- Contribution Graph -->
-<h3 align="center">🎮 Contribution Graph</h3>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ranjit933/Ranjit933/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ranjit933/Ranjit933/output/pacman-contribution-graph.svg">
-    <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/Ranjit933/Ranjit933/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
