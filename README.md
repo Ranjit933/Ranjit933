@@ -7,6 +7,7 @@
 
 ---
 
+<!-- Skills Section -->
 <h3 align="center">💼 My Core Tools</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="100" alt="Python" />
@@ -24,6 +25,7 @@
 
 ---
 
+<!-- Social Links -->
 <h3 align="center">🔗 Connect with Me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/ranjit-kumar-singh-1a69701a6/" target="_blank">
@@ -37,3 +39,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ranjit933&theme=dracula&hide_border=false&border_radius=5" alt="GitHub Streak" />
 </p>
+
