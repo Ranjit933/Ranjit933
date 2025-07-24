@@ -10,17 +10,17 @@
 <!-- Skills Section -->
 <h3 align="center">💼 My Core Tools</h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="100" alt="Python" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="80" alt="Python" />
   <img width="12" />
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="80" alt="Python" />
   <img width="12" />
   <img src="https://marlinbluetech.com/assets/img/sq.gif" height="80" alt="SQL" />
   <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*1G2TzNcdf6rJc5HS.gif" height="100" alt="Power BI" />
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*1G2TzNcdf6rJc5HS.gif" height="80" alt="Power BI" />
   <img width="12" />
-  <img src="https://miro.medium.com/v2/format:webp/0*dfhyWoxygZej7bgV.gif" height="100" alt="Excel" />
+  <img src="https://miro.medium.com/v2/format:webp/0*dfhyWoxygZej7bgV.gif" height="80" alt="Excel" />
   <img width="12" />
-  <img src="https://jimalytics.com/wp-content/uploads/2022/07/AEP-Schema-Basics.gif" height="100" alt="Adobe CJA" />
+  <img src="https://jimalytics.com/wp-content/uploads/2022/07/AEP-Schema-Basics.gif" height="80" alt="Adobe CJA" />
 </div>
 
 ---
